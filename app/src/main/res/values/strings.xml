@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrainingGeorgeyMan</string>
+    
+    <string-array name="currencyList">
+
+        <item>USD</item>
+        <item>EUR</item>
+        <item>AUD</item>
+        <item>GBP</item>
+        <item>JPN</item>
+    </string-array>
+
+</resources>
